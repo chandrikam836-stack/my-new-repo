@@ -40,8 +40,7 @@ The system provides real-time dashboards, predictive analytics, and automated re
 ### Machine Learning
 
 * Scikit-Learn
-* Pandas
-* NumPy
+
 
 ### Database
 
