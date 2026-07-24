@@ -20,10 +20,7 @@ The system provides real-time dashboards, predictive analytics, and automated re
 * 📈 Performance Analytics
 * 🤖 Machine Learning Predictions
 * 📂 CSV Data Upload
-* 📄 PDF Report Generation
-* 📉 Risk Detection
-* 📅 Attendance Tracking
-* 🌙 Responsive UI
+
 
 ---
 
