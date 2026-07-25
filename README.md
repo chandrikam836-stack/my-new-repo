@@ -48,24 +48,6 @@ The system provides real-time dashboards, predictive analytics, and automated re
 
 ---
 
-## 📂 Project Structure
-
-```text
-Student-Performance-System/
-│
-├── app.py
-├── requirements.txt
-├── model/
-├── dataset/
-├── assets/
-├── reports/
-├── utils/
-├── pages/
-└── README.md
-```
-
----
-
 
 ## 📊 Dashboard Preview
 
