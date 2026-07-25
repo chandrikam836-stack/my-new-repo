@@ -66,33 +66,6 @@ Student-Performance-System/
 
 ---
 
-## 🚀 Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/student-performance-monitoring.git
-```
-
-### Move into the Project
-
-```bash
-cd student-performance-monitoring
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Application
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## 📊 Dashboard Preview
 
