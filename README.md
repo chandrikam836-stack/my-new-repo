@@ -1,4 +1,4 @@
-# my-new-repo# 🎓 Student Performance Monitoring System
+🎓 Student Performance Monitoring System
 
 An AI-powered web application that helps educational institutions identify slow learners, monitor student performance, and generate insightful analytics using Machine Learning.
 
