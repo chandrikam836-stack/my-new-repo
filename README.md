@@ -90,10 +90,3 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
-
-**Udaya**
-
-B.Tech AI & ML Student
-
-⭐ If you found this project useful, don't forget to **Star** the repository!
